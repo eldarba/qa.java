@@ -5,7 +5,7 @@ public class TV {
 	// מאפייני הטלוויזיה
 	public int width = 100;
 	public int heigt = 40;
-	public String mode = "Off";
+	public String mode = "off";
 	
 	// פונקציות הטלוויזיה
 	public void powerOn() {

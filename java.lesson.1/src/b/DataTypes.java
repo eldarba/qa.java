@@ -20,6 +20,7 @@ public class DataTypes {
 		System.out.println(f2);
 
 		// use F, D, L - to change default types of literal values
+		
 		// logical
 		boolean b1 = true;
 		boolean b2 = false;
